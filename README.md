@@ -1,4 +1,5 @@
 # AI & ML Career Foundation Guide (India)
+### Developed by Partha Sarathi R
 
 A structured collection of resources, career paths, salary insights, and foundational concepts for aspiring and progressing AI, Data Science, and Machine Learning professionals in India.
 
